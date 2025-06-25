@@ -321,7 +321,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This platform is built on research conducted at Stanford University. For academic use, citation, or collaboration:
 
-### 📚 Citation
+## 📚 Citation
 
 ```bibtex
 @software{wheeler2025secureweb3,
